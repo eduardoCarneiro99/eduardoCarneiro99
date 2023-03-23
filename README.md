@@ -11,7 +11,7 @@ My name is Eduardo and I'm an Informatics and Computer Engineer student from Por
   - **Politicians Rate** - App to evaluate the public opinion about a chosen politician automatically using Twitter has a source of data. [Future Project]
   
 🌱 Current Tech Main Interests: <br>
-  - Backend Development
+  - Backend Development - Java and .Net
   - Text Classification and Topic Modelling
   
 📫 Contact me by Email or LinkedIn: eduardo.carneiro2020@hotmail.com | www.linkedin.com/in/eduardo-d-carneiro
