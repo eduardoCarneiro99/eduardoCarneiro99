@@ -14,7 +14,7 @@ My name is Eduardo and I'm an Informatics and Computer Engineer student from Por
   - Backend Development - Java and .Net
   - Text Classification and Topic Modelling
   
-📫 Contact me by Email or LinkedIn: eduardo.carneiro2020@hotmail.com | www.linkedin.com/in/eduardo-d-carneiro
+📫 Contact me by Email or LinkedIn: eduardo.d.carneiro@gmail.com | www.linkedin.com/in/eduardo-d-carneiro
     
 <!--
 **eduardoCarneiro99/eduardoCarneiro99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
