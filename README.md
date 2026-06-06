@@ -3,15 +3,18 @@
 My name is Eduardo and I'm an Informatics and Computer Engineer student from Portugal studying at FEUP!
 
 🔭 Currently Working On: <br>
-  - **Dissertation at INESC TEC** - Knowledge extraction from Social Networks for real-time transport network evaluation.
+  - **Backend Software Engineer at Inditex** - Ecommerce Customer Team
 
 ⚡ Personal Projects: <br>
-  - **GrabShare** - Mobile application to split a shopping list with event attendants. [HIATUS]
+  - **Predictions Market** - New predictions market project
   - **Sneaker ID** - Mobile application to identify sneakers models and collaborations using the phone camera. [Future Project]
-  - **Politicians Rate** - App to evaluate the public opinion about a chosen politician automatically using Twitter has a source of data. [Future Project]
+  - **Politicians Rate** - App to evaluate the public opinion about a chosen politician automatically using Twitter as a source of data. [Future Project]
+
+✅ Past Projects: <br>
+  - **Dissertation at INESC TEC** - Knowledge extraction from Social Networks for real-time transport network evaluation. [Completed](https://hdl.handle.net/10216/151927)
   
 🌱 Current Tech Main Interests: <br>
-  - Backend Development - Java and .Net
+  - Backend Development - Java and Python
   - Text Classification and Topic Modelling
   
 📫 Contact me by Email or LinkedIn: eduardo.d.carneiro@gmail.com | www.linkedin.com/in/eduardo-d-carneiro
